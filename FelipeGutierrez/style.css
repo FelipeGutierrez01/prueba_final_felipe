@@ -4,11 +4,22 @@ body{
     margin:0px;
     padding: 0px;
 }
-
 a{
     background-color: rgb(82, 135, 250);
-    color:aliceblue;
+    color: aliceblue;
+    text-decoration: none;
+
 }
+h1{
+    
+    background-color: rgb(82, 135, 250);
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
 footer{
     position: fixed;
     bottom: 0;
@@ -43,9 +54,9 @@ footer{
     box-shadow: 10px 10px 20px black ;
     border-radius: 10px;
 }
-.formulario{
+.form{
     width:400px;
-    height: 100px;
+    height: 300px;
     background-color: rgb(255, 255, 142);
     text-align: center;
     margin: 0 auto;
