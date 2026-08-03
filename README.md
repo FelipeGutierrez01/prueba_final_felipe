@@ -1,3 +1,4 @@
+# prueba_final
 1.- Evans Acuña
 2.-
 3.-
@@ -28,7 +29,7 @@
 28.-
 29.-
 30.-
-31.- Bastián López
+31.-
 32.-
 33.-
 34.-
@@ -38,8 +39,8 @@
 38.-
 39.- Sebastian Pereira
 40.-
-41.- Felipe Gutierrez
+41.-
 42.-
 43.-
-44.-
+44.- Camilo Mori
 45.- Profesora Liza Molina
