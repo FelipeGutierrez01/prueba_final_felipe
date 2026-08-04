@@ -8,8 +8,8 @@
 8.-
 9.-
 10.-
-11.-
-12.-
+11.- Rodrigo Rojas
+12.- Nicolas Mesa
 13.-
 14.-
 15.-
@@ -41,5 +41,5 @@
 41.- Felipe Gutierrez
 42.-
 43.-
-44.-
+44.- Camilo Mori
 45.- Profesora Liza Molina
